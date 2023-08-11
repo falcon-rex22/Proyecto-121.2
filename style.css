@@ -1,0 +1,19 @@
+body{
+    background-color: goldenrod;
+    background-image: url("https://i.pinimg.com/originals/38/75/fd/3875fdca5d6549224ec416b3c944c61c.png");
+    background-size: 700px;
+    background-repeat: no-repeat;
+}
+
+p{
+    color: darkred;
+    background-color: red;
+    width: 150px;
+}
+
+div{
+    width: 300px;
+    background-color: silver;
+    color: darkred;
+    border-radius: 20px;
+}
